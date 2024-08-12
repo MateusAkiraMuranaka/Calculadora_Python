@@ -1,2 +1,3 @@
 # Calculadora_Python
-Calculadora Simples em Python
+
+Calculadora Simples usando liguagem em Python.
